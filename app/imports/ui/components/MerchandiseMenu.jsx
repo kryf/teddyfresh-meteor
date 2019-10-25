@@ -13,6 +13,6 @@ export default class MerchandiseMenu extends React.Component {
             </Grid>
           </Menu>
         </div>
-    );
+    )
   }
 }

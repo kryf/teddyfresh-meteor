@@ -66,6 +66,6 @@ export default class Merchandise extends React.Component {
             </Grid>
           </div>
         </div>
-    );
+    )
   }
 }

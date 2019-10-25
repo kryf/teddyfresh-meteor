@@ -36,6 +36,6 @@ export default class MiddleMenu extends React.Component {
             <Menu.Item>CART (0)</Menu.Item>
           </Container>
         </Menu>
-    );
+    )
   }
 }

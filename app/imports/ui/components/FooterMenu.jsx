@@ -94,6 +94,6 @@ export default class FooterMenu extends React.Component {
             </Grid.Column>
           </Grid>
         </div>
-    );
+    )
   }
 }
