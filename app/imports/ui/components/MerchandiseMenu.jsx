@@ -1,7 +1,7 @@
 import React from 'react';
 import { Menu, Grid, Container } from 'semantic-ui-react';
 
-export default class TopMenu extends React.Component {
+export default class MerchandiseMenu extends React.Component {
   render(){
     return(
         <div className="website-background">

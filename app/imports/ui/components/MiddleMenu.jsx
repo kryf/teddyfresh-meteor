@@ -1,7 +1,7 @@
 import React from 'react';
 import { Menu, Container, Dropdown, Image } from 'semantic-ui-react';
 
-export default class TopMenu extends React.Component {
+export default class MiddleMenu extends React.Component {
   render(){
     return(
         <Menu borderless className="middlemenu">

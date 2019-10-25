@@ -1,7 +1,7 @@
 import React from 'react';
 import { Grid, Divider, List, Form, Button, Image, Menu, Icon } from 'semantic-ui-react';
 
-export default class TopMenu extends React.Component {
+export default class FooterMenu extends React.Component {
   render(){
     return(
         <div className="footer-background">
